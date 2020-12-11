@@ -1,0 +1,16 @@
+#left_td div {
+	margin-left: 50px;
+	height: 50px;
+}
+
+#left_td div a {
+	text-decoration: none;
+	font-size: 20px;
+	font: bold;
+	color: #0D863B;
+}
+
+#right_td {
+	height: 100%;
+	margin-top: 30px;
+}

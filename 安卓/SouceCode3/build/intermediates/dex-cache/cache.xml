@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\android_project\SouceCode3\javaapkcomcampus_life\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="D:\android_project\SouceCode3\javaapkcomcampus_life\build\intermediates\pre-dexed\debug\httpmime-4.1.3_34a6d8b49b79c659029cc3efc81d11999429d032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\86132\.gradle\caches\modules-2\files-2.1\com.android.support\support-v4\18.0.0\44ec51e9d395a47aab135e5e1b556c0007442156\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\android_project\SouceCode1\javaapkcomcampus_life\build\intermediates\pre-dexed\debug\support-v4-18.0.0_111b159b856fac56b7e86d904db213a97eb45195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_project\SouceCode3\javaapkcomcampus_life\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\android_project\SouceCode3\javaapkcomcampus_life\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.3_30d68f8d21363b82c144f262cb46fa48891092f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_project\SouceCode3\javaapkcomcampus_life\build\intermediates\exploded-aar\SouceCode3\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403139258b2f2fddaab7963a195b4adc41f8888">
+        <dex dex="D:\android_project\SouceCode3\javaapkcomcampus_life\build\intermediates\pre-dexed\debug\SouceCode3-library-unspecified_a153d012ec148dfbb95834e028a2db3e943b2fce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_project\SouceCode1\javaapkcomcampus_life\build\intermediates\exploded-aar\SouceCode1\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403139258b2f2fddaab7963a195b4adc41f8888">
+        <dex dex="D:\android_project\SouceCode1\javaapkcomcampus_life\build\intermediates\pre-dexed\debug\SouceCode1-library-unspecified_2294cb9c8eca5a08e3e57e2551ba0c406417f33d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_project\SouceCode1\javaapkcomcampus_life\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="D:\android_project\SouceCode1\javaapkcomcampus_life\build\intermediates\pre-dexed\debug\httpmime-4.1.3_a8b12de5cd9a1bc084365f4c7b97262db2c20c81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_project\SouceCode1\javaapkcomcampus_life\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\android_project\SouceCode1\javaapkcomcampus_life\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.3_4244478f5618993c4d9e1e2a993a85c03b44fad0.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="second-hand:war exploded">
+    <output-path>$PROJECT_DIR$/classes/second_hand_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="second-hand" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="c3p0-0.9.1.2.jar" module-name="second-hand" />
+          <element id="library" level="module" name="commons-dbutils-1.5.jar" module-name="second-hand" />
+          <element id="library" level="module" name="commons-fileupload-1.2.2.jar" module-name="second-hand" />
+          <element id="library" level="module" name="commons-io-2.4.jar" module-name="second-hand" />
+          <element id="library" level="module" name="mysql-connector-java-5.1.12-bin.jar" module-name="second-hand" />
+          <element id="library" level="module" name="org.json-20111124.jar" module-name="second-hand" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="second-hand/web/Web" />
+    </root>
+  </artifact>
+</component>

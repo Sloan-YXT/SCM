@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+#title{
+float: right;
+margin-right: 20px;
+}
+#person{
+	text-decoration:none;
+	font-style:italic;
+margin-right: 5px;
+}
+#school{
+	font-style:italic;
+margin-right: 8px;
+}
+#exit{
+	text-decoration:none;
+}
+#container {
+	margin: 30px auto;
+	background: url("../images/daohangbk.png") repeat-x;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:10px;
+	width:44%;
+	align: center;
+}
+#dao{
+display: inline;
+text-decoration:none;
+width: 100px;
+}
+#content {
+	margin: 0px auto 0px auto;
+	width: 70%;
+	align: center;
+}
+.daohang{
+
+padding: 10px;
+display: inline;
+width: 100px;
+}
+.image{
+display: inline;
+float: right;
+font-size:20px;
+color:#178B40;
+font-weight:bold;
+text-decoration:none;
+margin: 0 40px 30px 0;
+}
+
+.swiper-container {
+   
+}  
+
+

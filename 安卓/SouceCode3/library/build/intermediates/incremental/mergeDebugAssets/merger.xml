@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\eclipse3.6ForAndroid4.0\android_projects\SouceCode3\library\src\main\assets"/><source path="F:\eclipse3.6ForAndroid4.0\android_projects\SouceCode3\library\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\eclipse3.6ForAndroid4.0\android_projects\SouceCode3\library\src\debug\assets"/></dataSet></merger>
